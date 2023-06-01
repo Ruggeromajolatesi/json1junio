@@ -1,0 +1,22 @@
+{
+    "nombre": "ruggero majolatesi",
+    "email": "ruggero.majo@gmail.com",
+    "fecha de nascimiento": "09/07/1993",
+    "estudios": [
+        {
+            "ubicacion": "Barcelona",
+            "cual": "Fullstack",
+            "inicio": "Mayo23",
+            "fine": "Septembre29"
+        }
+    ],
+    "softskills": [
+        {
+        "volume": "trabajo bajo pression",
+        "equipo": "llevar gente a cargo",
+        "actitud1": "empatico",
+        "actitud2": "proactivo",
+        "actitud3": "seguir aprendiendo"
+        }
+    ]
+}
